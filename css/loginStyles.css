@@ -1,0 +1,36 @@
+
+.form-container{border:1px solid #fff; padding: 50px 60px; margin-top: 180px;
+    -webkit-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+    -moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+    box-shadow: -1px 4px 26px 11px rgba(0,0,0,0.75);
+}
+.rem{
+    color: rgb(23, 235, 154);
+    text-decoration: none;
+}
+
+.remi{
+    color: rgb(23, 235, 154);
+    text-decoration: none;
+    border-radius: 10%;
+    cursor: default;
+}
+.form-container{
+    margin-top: 35%;
+}
+.bg-image{
+background-image: url('../img/loginpageimg.jpg');
+height: 100vh;
+}
+.col-sm-10{
+    margin-top: -10%;
+}
+.col-lg-6{
+    margin-top:10%;
+}
+.col-md-8{
+    margin-top: -10%;
+}
+.pad{
+    padding-bottom:2%;
+}
